@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brachi Frenkel</h1>
 <h3 align="center">Innovation and creativity are integral parts of who I am. I am an autodidact, dedicated and strongly motivated to achieve optimal results. Always try my best, love doing good and helping others.</h3>
 
-- 🔭 I’m currently working on **some projects**
+- 🔭 I’m currently working on **some amazing projects**
 
 - 📫 How to reach me **brachi9912@gmail.com**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brachi-frenkel-655750231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brachi-frenkel-655750231/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brachi-frenkel-655750231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brachi-frenkel-655750231/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
